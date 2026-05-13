@@ -8,7 +8,7 @@ package.domain = org.moneytracker
 
 source.dir = .
 
-source.include_exts = py,png,jpg,kv,atlas
+source.include_exts = py,png,jpg,kv,atlas,ico
 
 version = 1.0
 
@@ -18,7 +18,7 @@ orientation = portrait
 
 fullscreen = 0
 
-android.permissions = INTERNET
+android.accept_sdk_license = True
 
 [buildozer]
 
